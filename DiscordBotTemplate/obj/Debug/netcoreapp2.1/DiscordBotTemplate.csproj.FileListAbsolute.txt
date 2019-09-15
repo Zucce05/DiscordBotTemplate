@@ -1,0 +1,8 @@
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\bin\Debug\netcoreapp2.1\DiscordBotTemplate.deps.json
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\bin\Debug\netcoreapp2.1\DiscordBotTemplate.runtimeconfig.json
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\bin\Debug\netcoreapp2.1\DiscordBotTemplate.runtimeconfig.dev.json
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\bin\Debug\netcoreapp2.1\DiscordBotTemplate.dll
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\obj\Debug\netcoreapp2.1\DiscordBotTemplate.csprojAssemblyReference.cache
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\obj\Debug\netcoreapp2.1\DiscordBotTemplate.csproj.CoreCompileInputs.cache
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\obj\Debug\netcoreapp2.1\DiscordBotTemplate.AssemblyInfoInputs.cache
+C:\Users\zucce\OneDrive\Desktop\gitRepos\DiscordBotTemplate\DiscordBotTemplate\obj\Debug\netcoreapp2.1\DiscordBotTemplate.AssemblyInfo.cs
